@@ -76,8 +76,7 @@ in separate tab to start server with nodemon
 
 ## Demo
 
-<iframe src="https://player.vimeo.com/video/149559005" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/149559005">Clippr | Bookmarks, but better</a> from <a href="https://vimeo.com/user47005006">Alex Kim</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/149559005" target="_blank">Clippr Demo on Vimeo</a></p>
 
 ## Team
 
