@@ -76,9 +76,7 @@ in separate tab to start server with nodemon
 
 ## Demo
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5fP4emqw7O4
-" target="_blank"><img src="http://img.youtube.com/vi/5fP4emqw7O4/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<p><a href="https://vimeo.com/149559005" target="_blank">Clippr Demo on Vimeo</a></p>
 
 ## Team
 
