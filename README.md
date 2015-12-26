@@ -1,7 +1,7 @@
 <img src="http://i.imgur.com/7e4NuaM.png" align="center" />
 
 ============
-[![Build Status](https://travis-ci.org/BitsPleaseMKS/Clipr.svg?branch=dev)](https://travis-ci.org/BitsPleaseMKS/Clipr)
+[![Build Status](https://travis-ci.org/BitsPleaseMKS/Clippr.svg?branch=dev)](https://travis-ci.org/BitsPleaseMKS/Clipr)
 
 Web app and Chrome extension that improves bookmarks through smart categorization, easy visualization and recommendations
 
